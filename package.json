@@ -1,0 +1,16 @@
+{
+"name": "riseofapollopg",
+"theme": "rise of apollo pg",
+"version": "2.2.3",
+"description": "rise of apollo pg ทางเข้าเว็บคาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ ให้เครดิตฟรี",
+"keywords": [
+"rise of apollo pg",
+"rise of apollo pg เครดิตฟรี",
+"rise of apollo pg ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/riseofapollopg",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
